@@ -9,7 +9,7 @@ image = "valts.jpg"
 
 +++
 
-Valts is a first-year PhD student in computer science. He graduated with a degree in Electrical and
+Valts is a second-year PhD student in computer science. He graduated with a degree in Electrical and
 Electronic Engineering from Nanyang Technological University in Singapore. In the past he has worked
 on rescue robotics and stereo vision. He is interested in robotics and machine learning, in
 particular developing algorithms that would improve robot understanding of the real world and allow
