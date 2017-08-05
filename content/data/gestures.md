@@ -39,14 +39,12 @@ unfortunately not available for all trials.
 
 # Examples
 
-&nbsp; | **"Fold the two sides together like this"** | &nbsp;
---------|----------|---------
-![Frame 1](/img/frame1.png)|![Frame 2](/img/frame2.png)|![Frame 3](/img/frame3.png)
+**"Fold the two sides together like this"**
+![Example 1](/img/gesture1.png)
 
 
-&nbsp; | **"Grab the corner and pull apart"** | &nbsp;
---------|----------|---------
-![Frame 1](/img/frame1a.png)|![Frame 2](/img/frame2a.png)|![Frame 3](/img/frame3a.png)
+**"Grab the corner and pull apart"**
+![Example 2](/img/gesture2.png)
 
 # Data Download
 
