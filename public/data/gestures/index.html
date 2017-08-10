@@ -7,7 +7,7 @@
     <meta name="description" content="Pose and audio data for simultaneous gestures and speech describing the same subjects">
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
-    <meta name="generator" content="Hugo 0.18.1" />
+    <meta name="generator" content="Hugo 0.26" />
     <meta name="robots" content="index,follow">
     <!--Favicon-->
     <link rel="shortcut icon" href="https://rpal.cs.cornell.edu/favicon.ico" type="image/x-icon">
@@ -129,9 +129,13 @@ origami and the folding actions which it required.</p>
 
 <h1 id="dataset-properties">Dataset Properties</h1>
 
-<p>This dataset comprises <strong>30 trials</strong> of roughly <strong>20 minutes</strong> each of recorded data. NiTE skeleton
-data and audio are provided for each trial. Some trials include raw depth data, but this is
+<p>This dataset currently comprises <strong>26 trials</strong> of roughly <strong>20 minutes</strong> each of recorded data. We
+have an additional 12 trials which we are still processing for addition to the dataset. NiTE
+skeleton data and audio are provided for each trial. Some trials include raw depth data, but this is
 unfortunately not available for all trials.</p>
+
+<p>Data are currently provided in raw format (described below). In the coming months, we will release a
+pre-processed version of the data with recordings segmented into individual gestures.</p>
 
 <h1 id="examples">Examples</h1>
 
@@ -149,7 +153,7 @@ unfortunately not available for all trials.</p>
 
 <p>These are the raw data from the collection experiment, unprocessed except to remove noise. They are
 contained in one <code>tar.gz</code> archive containing a separate directory for each trial. Audio files are
-stored as <code>.mp4</code> files, and skeleton data is saved as pickled Python objects in the format returned
+stored as <code>.flac</code> files, and skeleton data is saved as pickled Python objects in the format returned
 by the NiTE framework.</p>
 
 <p>You can download the raw data <a href="/data/gestures/raw.tar.gz">here</a>.</p>
