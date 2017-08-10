@@ -10,6 +10,6 @@ website = "https://www.cs.cornell.edu/~wil"
 
 +++
 
-Wil is a second-year PhD student in computer science. He is interested in a broad range of topics in
+Wil is a third-year PhD student in computer science. He is interested in a broad range of topics in
 robotics and CS, including multi-agent planning, human-robot interaction (with a particular focus on
 language and gesture understanding), and machine learning for robotics.

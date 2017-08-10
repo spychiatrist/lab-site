@@ -43,6 +43,13 @@ pre-processed version of the data with recordings segmented into individual gest
 
 # Examples
 
+**"Fold the two sides together like this"**
+![Example 1](/img/gesture1.png)
+
+
+**"Grab the corner and pull apart"**
+![Example 2](/img/gesture2.png)
+
 # Data Download
 
 You can download various forms of the dataset below.
@@ -58,4 +65,9 @@ You can download the raw data [here](/data/gestures/raw.tar.gz).
 
 # Data Tools
 
-Tools for working with the dataset will be forthcoming!
+**Visualization:** 
+[nite-skeleton-visualizer](https://github.com/Cornell-RPAL/nite-skeleton-visualizer)
+
+**Gesture Segmentation:** Forthcoming!
+
+**Audio Alignment:** Forthcoming!

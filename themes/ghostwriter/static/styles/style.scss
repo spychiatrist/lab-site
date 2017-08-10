@@ -300,12 +300,18 @@ table {
 .page-title,
 .section-title {
   font-family: 'Raleway';
-  font-size: 50px;
-  font-weight: 100;
-  margin: 25px 0px;
+  font-weight: normal;
   padding: 0 15px;
   text-align: center;
   text-transform: uppercase;
+}
+
+.page-title {
+  font-family: 'Caladea';
+  font-variant: small-caps;
+  text-transform: none;
+  margin: 15px 0px;
+  font-size: 65px;
 }
 
 .post-title { 
@@ -886,8 +892,7 @@ table {
   & object {
     position: relative;
     z-index: -1;
-    width: 75px;
-    height: 75px;
+    height: 100px;
   }
 }
 

@@ -3,13 +3,13 @@ description = ""
 title = "Claire Liang"
 date = "2017-03-07T17:50:12-05:00"
 tags = []
-type = "ugrad"
+type = "phd"
 author = ""
 image = "claire.jpg"
 
 +++
 
-Claire is a Senior in Computer Science working on the Hanabi Implicature Project.  In this work she 
+Claire is a first-year PhD student in computer science working on the Hanabi Implicature Project. In this work she 
 is developing a game AI that she believes matches human intuition's use of implicature and is 
 exploring the impact of quantity of presented information in the game's user interface.  She has 
 previously worked on stem cell population simulation including spatial modeling, and protein 
