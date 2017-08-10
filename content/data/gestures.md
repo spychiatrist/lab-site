@@ -33,9 +33,13 @@ origami and the folding actions which it required.
 
 # Dataset Properties
 
-This dataset comprises **30 trials** of roughly **20 minutes** each of recorded data. NiTE skeleton 
-data and audio are provided for each trial. Some trials include raw depth data, but this is 
+This dataset currently comprises **26 trials** of roughly **20 minutes** each of recorded data. We 
+have an additional 12 trials which we are still processing for addition to the dataset. NiTE 
+skeleton data and audio are provided for each trial. Some trials include raw depth data, but this is 
 unfortunately not available for all trials.
+
+Data are currently provided in raw format (described below). In the coming months, we will release a 
+pre-processed version of the data with recordings segmented into individual gestures.
 
 # Examples
 
@@ -47,7 +51,7 @@ You can download various forms of the dataset below.
 
 These are the raw data from the collection experiment, unprocessed except to remove noise. They are 
 contained in one `tar.gz` archive containing a separate directory for each trial. Audio files are 
-stored as `.mp4` files, and skeleton data is saved as pickled Python objects in the format returned 
+stored as `.flac` files, and skeleton data is saved as pickled Python objects in the format returned 
 by the NiTE framework.
 
 You can download the raw data [here](/data/gestures/raw.tar.gz).
