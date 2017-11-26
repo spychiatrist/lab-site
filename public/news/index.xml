@@ -6,10 +6,21 @@
     <description>Recent content in News on Cornell RPAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jul 2017 23:47:43 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 23 Nov 2017 23:47:43 -0500</lastBuildDate>
     
 	<atom:link href="https://rpal.cs.cornell.edu/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Paper Accepted to HRI 2018</title>
+      <link>https://rpal.cs.cornell.edu/news/hri2018/</link>
+      <pubDate>Thu, 23 Nov 2017 23:47:43 -0500</pubDate>
+      
+      <guid>https://rpal.cs.cornell.edu/news/hri2018/</guid>
+      <description>The paper &amp;ldquo;Social Momentum: A Framework for Legible Navigation in Dynamic Multi-Agent Environments&amp;rdquo;, by Christoforos Mavrogiannis, Wil Thomason, and Ross Knepper, has been accepted to HRI 2018.
+From the paper:
+ Intent-expressive robot motion has been shown to result in increased efficiency and reduced planning efforts for human or robot partners in implicitly or explicitly collaborative scenarios. Existing frameworks for generating intent-expressive robot behaviors have typically focused on applications in static or structured environments.</description>
+    </item>
     
     <item>
       <title>Paper Accepted to IROS 2017</title>
