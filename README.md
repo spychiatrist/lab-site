@@ -34,9 +34,10 @@ root before running `hugo`.
 
 ## Deploying the site
 
-Copy the contents of the `public/` directory to the `htdocs` folder for `rpal.cs.cornell.edu` on
-`courses2.cit.cornell.edu`. Generally, I run `rsync -r public/*
-<netid>@courses2.cit.cornell.edu:coursewww/rpal.cs.cornell.edu/htdocs/` for this.
+Copy the contents of the `public/` directory to the `/var/www/html` directory on 
+`rpal.cs.cornell.edu`. Generally, I run `rsync -r public/*
+rpal@rpal.cs.cornell.edu:/var/www/html` for this. You will need the password for the `rpal` account; 
+see Wil, Julia, or Ross for this.
 
 ## Basic editing
 
