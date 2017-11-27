@@ -2,14 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>People on Cornell RPAL</title>
-    <link>https://rpal.cs.cornell.edu/people/</link>
+    <link>https://rpal.cs.cornell.edu/people/index.xml</link>
     <description>Recent content in People on Cornell RPAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Mar 2017 17:50:12 -0500</lastBuildDate>
-    
-	<atom:link href="https://rpal.cs.cornell.edu/people/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://rpal.cs.cornell.edu/people/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Claire Liang</title>
@@ -17,7 +15,13 @@
       <pubDate>Tue, 07 Mar 2017 17:50:12 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/people/claire/</guid>
-      <description>Claire is a first-year PhD student in computer science working on the Hanabi Implicature Project. In this work she is developing a game AI that she believes matches human intuition&amp;rsquo;s use of implicature and is exploring the impact of quantity of presented information in the game&amp;rsquo;s user interface. She has previously worked on stem cell population simulation including spatial modeling, and protein crystallizability prediction. Her current interests lie in mathematics - specifically geometry and topology - and its use in a broad range of real world modeling questions.</description>
+      <description>&lt;p&gt;Claire is a first-year PhD student in computer science working on the Hanabi Implicature Project. In this work she
+is developing a game AI that she believes matches human intuition&amp;rsquo;s use of implicature and is
+exploring the impact of quantity of presented information in the game&amp;rsquo;s user interface.  She has
+previously worked on stem cell population simulation including spatial modeling, and protein
+crystallizability prediction. Her current interests lie in mathematics - specifically geometry and
+topology - and its use in a broad range of real world modeling questions.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -26,7 +30,8 @@
       <pubDate>Tue, 07 Feb 2017 05:56:51 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/people/zach/</guid>
-      <description>I was a computer science major in the College of Engineering at Cornell University. My current research interests lie in the areas of human-robot interaction, computer vision, and augmented reality. I am also a member of Cornell&amp;rsquo;s Robotic Personal Assistants Lab run by Prof. Ross Knepper. Currently, I am working on a telepresence robot equipped with a 360 degree RGB-D sensor. The goal is to use the data coming from the sensor to enable the robot to seamlessly and smoothly navigate crowded pedestrian environments.</description>
+      <description>&lt;p&gt;I was a computer science major in the College of Engineering at Cornell University. My current research interests lie in the areas of human-robot interaction, computer vision, and augmented reality. I am also a member of Cornell&amp;rsquo;s Robotic Personal Assistants Lab run by Prof. Ross Knepper. Currently, I am working on a telepresence robot equipped with a 360 degree RGB-D sensor. The goal is to use the data coming from the sensor to enable the robot to seamlessly and smoothly navigate crowded pedestrian environments. More details about me can be found on my website.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -35,7 +40,12 @@
       <pubDate>Mon, 06 Feb 2017 09:58:51 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/people/valts/</guid>
-      <description>Valts is a second-year PhD student in computer science. He graduated with a degree in Electrical and Electronic Engineering from Nanyang Technological University in Singapore. In the past he has worked on rescue robotics and stereo vision. He is interested in robotics and machine learning, in particular developing algorithms that would improve robot understanding of the real world and allow competent interactions with people.</description>
+      <description>&lt;p&gt;Valts is a second-year PhD student in computer science. He graduated with a degree in Electrical and
+Electronic Engineering from Nanyang Technological University in Singapore. In the past he has worked
+on rescue robotics and stereo vision. He is interested in robotics and machine learning, in
+particular developing algorithms that would improve robot understanding of the real world and allow
+competent interactions with people.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -44,7 +54,8 @@
       <pubDate>Wed, 25 Jan 2017 16:12:51 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/people/ross/</guid>
-      <description>Ross A. Knepper is an Assistant Professor in the Department of Computer Science at Cornell University. His research focuses on the theory, algorithms, and mechanisms of automated assembly and human-robot collaboration. Previously, Ross was a Research Scientist in the Distributed Robotics Lab at MIT. Ross received his M.S and Ph.D. degrees in Robotics from Carnegie Mellon University in 2007 and 2011. Before his graduate education, Ross worked in industry at Compaq, where he designed high-performance algorithms for scalable multiprocessor systems; and also in commercialization at the National Robotics Engineering Center, where he adapted robotics technologies for customers in government and industry.</description>
+      <description>&lt;p&gt;Ross A. Knepper is an Assistant Professor in the Department of Computer Science at Cornell University. His research focuses on the theory, algorithms, and mechanisms of automated assembly and human-robot collaboration. Previously, Ross was a Research Scientist in the Distributed Robotics Lab at MIT. Ross received his M.S and Ph.D. degrees in Robotics from Carnegie Mellon University in 2007 and 2011. Before his graduate education, Ross worked in industry at Compaq, where he designed high-performance algorithms for scalable multiprocessor systems; and also in commercialization at the National Robotics Engineering Center, where he adapted robotics technologies for customers in government and industry. Ross has served as a volunteer for Interpretation at Death Valley National Park, California.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -53,7 +64,8 @@
       <pubDate>Wed, 26 Oct 2016 21:19:59 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/people/daryl/</guid>
-      <description>Computer Science undergraduate interested in computer vision, machine learning and robotics.</description>
+      <description>&lt;p&gt;Computer Science undergraduate interested in computer vision, machine learning and robotics.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -62,7 +74,8 @@
       <pubDate>Sun, 21 Aug 2016 00:00:00 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/people/julia/</guid>
-      <description>Julia is a second-year PhD student in computer science. Her research interests are in robotics and human-robot interaction, in particular facilitating efficient collaboration for human-robot teams by enabling robots to leverage situational context when communicating. She also works part-time for the Anita Borg Institute, a non-profit organization dedicated to connecting, supporting, and inspiring women in technology.</description>
+      <description>&lt;p&gt;Julia is a second-year PhD student in computer science. Her research interests are in robotics and human-robot interaction, in particular facilitating efficient collaboration for human-robot teams by enabling robots to leverage situational context when communicating. She also works part-time for the Anita Borg Institute, a non-profit organization dedicated to connecting, supporting, and inspiring women in technology.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -71,7 +84,8 @@
       <pubDate>Tue, 26 Jan 2016 21:20:10 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/people/vitchyr/</guid>
-      <description>Undergraduate in ECE and CS, moved on to a PhD at UC Berkeley.</description>
+      <description>&lt;p&gt;Undergraduate in ECE and CS, moved on to a PhD at UC Berkeley.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -80,7 +94,8 @@
       <pubDate>Tue, 26 Jan 2016 21:19:52 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/people/alex/</guid>
-      <description>ECE undergraduate, moved on to a Master&amp;rsquo;s at the CMU Robotics Institute.</description>
+      <description>&lt;p&gt;ECE undergraduate, moved on to a Master&amp;rsquo;s at the CMU Robotics Institute.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -89,7 +104,10 @@
       <pubDate>Sun, 25 Jan 2015 16:12:51 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/people/wil/</guid>
-      <description>Wil is a third-year PhD student in computer science. He is interested in a broad range of topics in robotics and CS, including multi-agent planning, human-robot interaction (with a particular focus on language and gesture understanding), and machine learning for robotics.</description>
+      <description>&lt;p&gt;Wil is a third-year PhD student in computer science. He is interested in a broad range of topics in
+robotics and CS, including multi-agent planning, human-robot interaction (with a particular focus on
+language and gesture understanding), and machine learning for robotics.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -98,7 +116,12 @@
       <pubDate>Sun, 26 Jan 2014 21:20:05 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/people/minae/</guid>
-      <description>I’m interested in facilitating collaboration between robots and humans by computationally expressing findings from social and cognitive psychology to model human behavior and appropriately design robot behavior. Currently, I am working on how humans form expectations of social robots and how we can help people form more accurate mental models of them. When not doing research, I enjoy debating (competitively), watching movies, and traveling.</description>
+      <description>&lt;p&gt;I’m interested in facilitating collaboration between robots and humans by computationally expressing
+findings from social and cognitive psychology to model human behavior and appropriately design robot
+behavior. Currently, I am working on how humans form expectations of social robots and how we can
+help people form more accurate mental models of them.  When not doing research, I enjoy debating
+(competitively), watching movies, and traveling.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -107,7 +130,8 @@
       <pubDate>Sat, 25 Jan 2014 15:50:27 -0500</pubDate>
       
       <guid>https://rpal.cs.cornell.edu/people/chris/</guid>
-      <description>Christoforos received a Diploma in Mechanical Engineering from the National Technical University of Athens, Greece in 2013. He is currently a PhD candidate in the Sibley School of Mechanical and Aerospace Engineering. His PhD research is focused on the design of navigation planning algorithms for robots operating in crowded environments. Inspired by insights from cognitive science and psychology, he employs tools from topology, motion planning and machine learning to address the problem of generating socially competent robot behaviors in pedestrian environments.</description>
+      <description>&lt;p&gt;Christoforos received a Diploma in Mechanical Engineering from the National Technical University of Athens, Greece in 2013. He is currently a PhD candidate in the Sibley School of Mechanical and Aerospace Engineering.  His PhD research is focused on the design of navigation planning algorithms for robots operating in crowded environments. Inspired by insights from cognitive science and psychology, he employs tools from topology, motion planning and machine learning to address the problem of generating socially competent robot behaviors in pedestrian environments. In the past he has done research on Robotic Grasping, Manipulation and Robotic/Prosthetic Hand design.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
