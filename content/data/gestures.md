@@ -41,6 +41,22 @@ unfortunately not available for all trials.
 Data are currently provided in raw format (described below). In the coming months, we will release a 
 pre-processed version of the data with recordings segmented into individual gestures.
 
+# Usage
+
+If you use this dataset, please cite:
+
+```
+@inproceedings{thomason2016recognizing,
+  title={Recognizing Unfamiliar Gestures for Human-Robot Interaction through Zero-Shot Learning},
+  author={Thomason, Wil and Knepper, Ross A},
+  booktitle={International Symposium on Experimental Robotics},
+  pages={841--852},
+  year={2016},
+  organization={Springer}
+  isbn="978-3-319-50115-4"
+}
+```
+
 # Examples
 
 **"Fold the two sides together like this"**
@@ -67,7 +83,3 @@ You can download the raw data [here](/data/gestures/raw.tar.gz).
 
 **Visualization:** 
 [nite-skeleton-visualizer](https://github.com/Cornell-RPAL/nite-skeleton-visualizer)
-
-**Gesture Segmentation:** Forthcoming!
-
-**Audio Alignment:** Forthcoming!
