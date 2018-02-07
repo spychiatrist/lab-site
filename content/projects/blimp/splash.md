@@ -1,6 +1,13 @@
 +++
+author = ""
+description = ""
+title = "Solar Airship"
+date = "2017-01-25T20:09:13-05:00"
+tags = []
 extra = true
+draft = false
 +++
+
 # Who We Are:
 
 We are a project team working to build an autonomous blimp capable of long-term independent flight.
