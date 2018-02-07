@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>https://rpal.cs.cornell.edu/</loc>
+    <lastmod>2017-01-25T20:21:10-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rpal.cs.cornell.edu/projects/social_nav/</loc>
     <lastmod>2017-01-25T20:09:33-05:00</lastmod>
   </url>
@@ -124,12 +129,6 @@
   
   <url>
     <loc>https://rpal.cs.cornell.edu/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rpal.cs.cornell.edu/</loc>
-    <lastmod>2017-11-23T23:47:43-05:00</lastmod>
     <priority>0</priority>
   </url>
   
