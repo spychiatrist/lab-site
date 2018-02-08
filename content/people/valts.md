@@ -9,8 +9,7 @@ image = "valts.jpg"
 
 +++
 
-Valts is a second-year PhD student in computer science. He graduated with a degree in Electrical and
-Electronic Engineering from Nanyang Technological University in Singapore. In the past he has worked
-on rescue robotics and stereo vision. He is interested in robotics and machine learning, in
-particular developing algorithms that would improve robot understanding of the real world and allow
-competent interactions with people.
+Valts is a second-year PhD student in computer science, co-advised by Yoav Artzi in Cornell Tech.
+He applies machine learning techniques to robotics problems, attempting to scale them beyond instrumented environments and towards more complex real-world scenarios. Currently he trains robots to follow natural language instructions and perform manipulation behaviors in simulation, with the goal of transfer to a real robot.
+This involves using reinforcement learning, imitation learning, transfer learning, domain adaptation and other learning methods, but also
+designing new models and algorithms that are uniquely tailored for robotics tasks. In the past he has also worked on rescue robots, stereo vision and participated in various robotics competitions.
